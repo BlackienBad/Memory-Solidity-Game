@@ -1,3 +1,3 @@
 # Memory Solidity Game (with doges)
 
-![Gif](https://giphy.com/gifs/LIYHrTkmsQIpqul8dT)
+![Gif](https://media.giphy.com/media//LIYHrTkmsQIpqul8dT/giphy.gif)
