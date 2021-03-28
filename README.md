@@ -1,4 +1,4 @@
-# Memory Solidity Game (with doges)
+# Memory Solidity Game (with doges) NFT
 <br/>
 
 ![Gif](https://media.giphy.com/media/LIYHrTkmsQIpqul8dT/giphy.gif)<br/><br/>
